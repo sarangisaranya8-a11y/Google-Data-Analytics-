@@ -7,7 +7,7 @@ Coursework & projects repository
 |--------|--------|-------------|
 | 1 Foundations: Data, Data, Everywhere | ✅ Done | [verify](https://coursera.org/share/78a688e181bf5b791406a0b3ac404439) 
 | 2 Ask Questions to Make Data-Driven Decisions | ✅ Done | [verify](https://coursera.org/share/50e8ac0d64e58ad5629bb236c60ac22e)
-| 3 Prepare Data for Exploration | 🔄 83 % | — |
+| 3 Prepare Data for Exploration | ✅ Done | [verify](https://coursera.org/share/afd3848f061bafa78ffe7a200389d440)
 | 4 Process Data from Dirty to Clean | ⏳ Not started | — |
 | 5 Analyze Data to Answer Questions | ⏳ Not started | — |
 | 6 Share Data Through the Art of Visualization | ⏳ Not started | — |
