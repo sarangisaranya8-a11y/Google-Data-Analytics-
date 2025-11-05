@@ -11,8 +11,8 @@ Coursework & projects repository
 | 4 Process Data from Dirty to Clean | ✅ Done | [verify](https://coursera.org/share/eed6f1ba42859b23bceecaafe44b239d)
 | 5 Analyze Data to Answer Questions |✅ Done | [verify](https://coursera.org/share/6bf021ceab21ce851aadbf13349537a4)
 | 6 Share Data Through the Art of Visualization |✅ Done  | [verify](https://coursera.org/share/ff06152d67a64bd0041a98a4a40910dc)
-| 7 Data Analysis with R Programming | 🔄 10 % | — |
-| 8 Capstone: Complete a Case Study | ⏳ Not started | — |
+| 7 Data Analysis with R Programming | ✅ Done | [verify](https://coursera.org/share/95931e40a3fd91fa09fd12fcd786e39c)
+| 8 Capstone: Complete a Case Study | 🔄 10 % | — |
 | 9 Accelerate Your Job Search with AI | ⏳ Not started | — |
 
 ## 📧 Contact
