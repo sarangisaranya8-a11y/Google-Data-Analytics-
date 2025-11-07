@@ -1,6 +1,7 @@
 # Google-Data-Analytics-
 Google Data Analytics Professional Certificate coursework and projects
-# Google Data Analytics Professional Certificate  
+# Google Data Analytics Professional Certificate 
+[✅ verified certicate](https://coursera.org/share/b4f4ea01bfdf3f947dba16048517cdb3)
 Coursework & projects repository  
 
 | Course | Status | Key Insight |
