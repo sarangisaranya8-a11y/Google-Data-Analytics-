@@ -12,8 +12,8 @@ Coursework & projects repository
 | 5 Analyze Data to Answer Questions |✅ Done | [verify](https://coursera.org/share/6bf021ceab21ce851aadbf13349537a4)
 | 6 Share Data Through the Art of Visualization |✅ Done  | [verify](https://coursera.org/share/ff06152d67a64bd0041a98a4a40910dc)
 | 7 Data Analysis with R Programming | ✅ Done | [verify](https://coursera.org/share/95931e40a3fd91fa09fd12fcd786e39c)
-| 8 Capstone: Complete a Case Study | 🔄 10 % | — |
-| 9 Accelerate Your Job Search with AI | ⏳ Not started | — |
+| 8 Capstone: Complete a Case Study | ✅ Done | [verify](https://coursera.org/share/6e2f81d205e3a3c1073b78acfb4fb4be)
+| 9 Accelerate Your Job Search with AI | 🔄 5% | — |
 
 ## 📧 Contact
 GitHub: @sarangisaranyaB-aly
